@@ -4,7 +4,7 @@
   - Cores: 6
   - Threads: 12
 - RAM: 32 GB
-- GPU: RTX 2080 Ti (11 GB) + GTX 1080 Ti (11 GB)
+- GPU: RTX 2080 Ti (11 GB) + RTX 2070 (8 GB)
 
 **PLASTER**
 - CPU: i7-5960X @ 3.00GHz
